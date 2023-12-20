@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1684961823 source:e:\2023\orga\proyectoc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"multiset.h"
+
+1684961876 e:\2023\orga\proyectoc\lista.h
+
+1684848210 e:\2023\orga\proyectoc\multiset.h
+	"lista.h"
+
+1684961641 source:e:\2023\orga\proyectoc\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1684961905 source:e:\2023\orga\proyectoc\multiset.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"multiset.h"
+	"lista.h"
+
+1684630098 source:e:\2023\orga\proyectoc\funciones_personalizadas.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"funciones_personalizadas.h"
+
+1684630052 e:\2023\orga\proyectoc\funciones_personalizadas.h
+
+1684630077 e:\2023\orga\proyectoc\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1685418524 source:c:\users\usuario\desktop\proyectoc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"multiset.h"
+
+1685691577 c:\users\usuario\desktop\proyectoc\lista.h
+
+1685691534 c:\users\usuario\desktop\proyectoc\multiset.h
+	"lista.h"
+
+1685691551 source:c:\users\usuario\desktop\proyectoc\multiset.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"multiset.h"
+	"lista.h"
+	"errores.h"
+
+1685691587 source:c:\users\usuario\desktop\proyectoc\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"errores.h"
+
+1685052899 c:\users\usuario\desktop\proyectoc\mis_convenciones.h
+	"lista.h"
+
+1685746563 source:c:\users\usuario\desktop\proyectoc\cuentapalabras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"lista.h"
+	"multiset.h"
+	"errores.h"
+
+1685142219 c:\users\usuario\desktop\proyectoc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"multiset.h"
+
+1685508470 c:\users\usuario\desktop\proyectoc\errores.h
+
